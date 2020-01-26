@@ -1,3 +1,3 @@
 # HelloGitHub
 Homework 1
-![](images/Screenshot41.png)
+![](Images/Screenshot41.png)
